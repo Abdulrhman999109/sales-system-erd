@@ -1,4 +1,4 @@
-# Sales System - Database Design (ERD)
+# Sales System (ERD)
 
 ##  Project Overview
 This repository contains the Entity Relationship Diagram (ERD) for a Sales Management System.
